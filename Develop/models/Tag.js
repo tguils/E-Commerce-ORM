@@ -9,22 +9,23 @@ Tag.init(
     // define columns
     {
       id: {
-        type: INTEGER,
+        type: DataTypes.INTEGER,
         allowNull: false,
         primaryKey: true,
         autoIncrement: true
       },
       tag_name: {
-        type: STRING,
+        type: DataTypes.STRING,
       }
-  },
-  {
-    sequelize,
-    timestamps: false,
-    freezeTableName: true,
-    underscored: true,
-    modelName: 'tag',
+    },
+    {
+      sequelize,
+      timestamps: false,
+      freezeTableName: true,
+      underscored: true,
+      modelName: 'tag',
+    },
   }
-);
+  );
 
 module.exports = Tag;
