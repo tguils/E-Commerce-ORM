@@ -14,3 +14,5 @@ To initiate and use this app the user must ensure that express and MySQL are ins
 # issues
 
 Need to fix bug to be able to run the seeds and test in insomnia. Unable to connect at this point.
+
+[Walkthrough Video](https://drive.google.com/file/d/1WEEYlVDY1ke9qGWuRc8ElVnuFNRjHdFa/view)
