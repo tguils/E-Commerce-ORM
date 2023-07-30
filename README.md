@@ -12,4 +12,4 @@ To initiate and use this app the user must ensure that express and MySQL are ins
 
 
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1YTPU-4BK1BgtORGAImJypQGy7qoLq7lY/view)
